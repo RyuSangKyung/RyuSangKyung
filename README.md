@@ -2,11 +2,11 @@
 
 
 ### ✨ Skills
-<img src="https://img.shields.io/badge/Java-2F2625?style=flat-square&logo=coffeescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 
-
+java-007396
 ### 📫 Contact me
-<a href="mailto:yskh95s@naver.com"><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=naver&logoColor=white"/></a>
+<a href="mailto:yskh95s@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 
 🌱
 
