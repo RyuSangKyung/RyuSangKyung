@@ -1,7 +1,7 @@
 ### 👋 안녕하세요! Back-End 취업이 목표인 개발 지망생입니다.
 
 ### 📫 Contact me
-<a href="yskh95s@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+<a href="mailto:yskh95s@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>
 
 
 📫
