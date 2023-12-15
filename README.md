@@ -1,22 +1,15 @@
-# 👋 안녕하세요! Back-End 취업이 목표인 개발 지망생입니다.
+# 👋 안녕하세요! 
+Back-End 에 관심이 많은 개발 지망생입니다.
+KH정보 교육원의 7개월간 <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=coffeescript&logoColor=white"/>  게시판 및 회원기능, 간단한 솔루션을 
 
-## ✨ My Skills
-   ### 👍 Main 
+## ✨ Skills
    <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=coffeescript&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-   ### ✌Sub
-
+   ### ✏ Study
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 
-
-
-
-
-
-
-java-007396
 ### 📫 Contact me
 <a href="mailto:yskh95s@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 
