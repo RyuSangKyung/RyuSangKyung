@@ -3,7 +3,8 @@
 #
 
 ## ✨ My Skills
-*     👍 Main <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=coffeescript&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+   ###👍 Main 
+   <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=coffeescript&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
    ### ✌Sub
 
