@@ -3,6 +3,8 @@
 
 ### ✨ Skills
 <img src="https://img.shields.io/badge/Java-2F2625?style=flat-square&logo=coffeescript&logoColor=white"/>
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+
 
 ### 📫 Contact me
 <a href="mailto:yskh95s@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
