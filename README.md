@@ -3,6 +3,18 @@
 
 ### ✨ Skills
 <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=coffeescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=coffeescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=coffeescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=coffeescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=coffeescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=coffeescript&logoColor=white"/>
+
+
+
+
+
+
 
 java-007396
 ### 📫 Contact me
