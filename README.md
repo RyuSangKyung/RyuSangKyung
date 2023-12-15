@@ -11,7 +11,7 @@ Back-End 에 관심이 많은 개발 지망생입니다.
 
 
 ## ✏ Study
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.Js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.Js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScrypt-3178C6?style=flat-square&logo=typescript&logoColor=white"/> 
 
 
 ### 📫 Contact me
