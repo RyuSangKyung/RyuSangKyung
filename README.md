@@ -1,4 +1,4 @@
-### Hi there 👋
+### Back-End 개발 지망생입니다. 👋
 
 <!--
 **RyuSangKyung/RyuSangKyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
