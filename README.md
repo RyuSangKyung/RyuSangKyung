@@ -1,13 +1,19 @@
 ### 👋 안녕하세요! Back-End 취업이 목표인 개발 지망생입니다.
 
 
-### ✨ Skills
-<img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=coffeescript&logoColor=white"/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+### ✨ My Skills
+
+## Main
+<img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=coffeescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+## Sub
+
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
 
 
 
