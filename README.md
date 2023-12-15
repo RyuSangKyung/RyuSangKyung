@@ -1,6 +1,7 @@
 # 👋 안녕하세요! 
 Back-End 에 관심이 많은 개발 지망생입니다.
-KH정보 교육원의 7개월간 <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=coffeescript&logoColor=white"/>  게시판 및 회원기능, 간단한 솔루션을 
+국비 교육(KH정보교육원)을 수료하면서 게시판 및 회원기능, 간단한 솔루션을 구현하여 웹 페이지를 제작하는 프로젝트를 진행하였으며
+현재는 취업 준비중 입니다.
 
 ## ✨ Skills
    <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=coffeescript&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
